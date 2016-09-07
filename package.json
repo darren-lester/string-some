@@ -15,8 +15,10 @@
   },
   "keywords": [
     "string",
+    "text",
     "character",
-    "some"
+    "some",
+    "text analysis"
   ],
   "author": "Darren Lester <dsslester@gmail.com>",
   "license": "MIT",
