@@ -1,0 +1,31 @@
+{
+  "name": "string-some",
+  "version": "1.0.0",
+  "description": "Determine if some character in a string satisfies a condition",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "string",
+    "character",
+    "some"
+  ],
+  "author": "Darren Lester <dsslester@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darren-lester/string-some.git"
+  },
+  "bugs": {
+    "url": "https://github.com/darren-lester/string-some/issues"
+  },
+  "homepage": "https://github.com/darren-lester/string-some#readme"
+}
