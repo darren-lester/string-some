@@ -22,7 +22,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darren-lester/string-some.git"
+    "url": "https://github.com/darren-lester/string-some.git"
   },
   "bugs": {
     "url": "https://github.com/darren-lester/string-some/issues"
