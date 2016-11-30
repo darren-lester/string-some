@@ -1,6 +1,6 @@
 {
   "name": "string-some",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Determine if some character in a string satisfies a condition",
   "main": "index.js",
   "directories": {
